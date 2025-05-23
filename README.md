@@ -224,4 +224,4 @@ plt.show()
 
 
 ## RESULT
-Include your result here
+Thus the program To develop a convolutional neural network (CNN) classification model for the given dataset is created successfully.
